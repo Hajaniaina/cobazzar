@@ -1,0 +1,218 @@
+   									<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=13"><img src="images/Magasi-De-Mode-Short.png" class="img-responsive" alt="magasin de mode Short-Short-1000" title="magasin de mode Short-Short-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=13">Short</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=14"><img src="images/Magasin-De_Mode-tee-shirt-polo.png" class="img-responsive" alt="magasin de mode Tee-Shirt & Polo-Tee-Shirt-1000" title="magasin de mode Tee-Shirt & Polo-Tee-Shirt-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=14">Tee-Shirt</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=15"><img src="images/Mode-Jeans.jpg" class="img-responsive" alt="magasin de mode Jeans-Jeans-1000" title="magasin de mode Jeans-Jeans-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=15">Jeans</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=16"><img src="images/Vetement-Du-jour-la-mode.png" class="img-responsive" alt="magasin de mode Vetement du jours-Vetement du jour-1000" title="magasin de mode Vetement du jours-Vetement du jour-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=16">Vetement du jour</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=17"><img src="images/Vetement-mode-pour-La-Seremonie.jpg" class="img-responsive" alt="magasin de mode Vetement de Ceremonie-Vetement de Ceremonie-1000" title="magasin de mode Vetement de Ceremonie-Vetement de Ceremonie-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=17">Vetement de Ceremonie</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=18"><img src="images/Mode-Tenue-De-Sport.png" class="img-responsive" alt="magasin de mode Tenu de Sport-Tenue De Sport-1000" title="magasin de mode Tenu de Sport-Tenue De Sport-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=18">Tenue De Sport</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=19"><img src="images/La-Mode-Veste-Cuire.jpg" class="img-responsive" alt="magasin de mode Veste en cuir-Veste Cuire-1000" title="magasin de mode Veste en cuir-Veste Cuire-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=19">Veste Cuire</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=20"><img src="images/La-Mode-Chaussure.jpg" class="img-responsive" alt="magasin de mode Chaussure-Chaussure-1000" title="magasin de mode Chaussure-Chaussure-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=20">Chaussure</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=21"><img src="images/Mode-Sac-De-Voyage.jpg" class="img-responsive" alt="magasin de mode Sac de voyage-Sac de voyage-1000" title="magasin de mode Sac de voyage-Sac de voyage-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=21">Sac de voyage</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=22"><img src="images/Mode-Parfum-Deodorant.png" class="img-responsive" alt="magasin de mode Parfum & Deodorant-Parfum et Deodorant-1000" title="magasin de mode Parfum & Deodorant-Parfum et Deodorant-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=22">Parfum et Deodorant</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=23"><img src="images/Mode-Menteau.png" class="img-responsive" alt="magasin de mode Menteau-Menteau-1000" title="magasin de mode Menteau-Menteau-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=23">Menteau</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=24"><img src="images/Veste-La-Mode.jpg" class="img-responsive" alt="magasin de mode Vestes en denim-Veste-1000" title="magasin de mode Vestes en denim-Veste-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=24">Veste</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+					
+			

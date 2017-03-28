@@ -1,0 +1,218 @@
+   									<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=1"><img src="images/Frigo-Electronique.jpg" class="img-responsive" alt="Electronique Frigo-Frigo Electrinique-1000" title="Electronique Frigo-Frigo Electrinique-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=1">Frigo Electrinique</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=2"><img src="images/Machine-a-laver-Electronique.jpg" class="img-responsive" alt="Electronique Machine a laver-Machine a laver-1000" title="Electronique Machine a laver-Machine a laver-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=2">Machine a laver</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=3"><img src="images/Technologie-de-bureau-Electronique.jpg" class="img-responsive" alt="Electronique Technologie de bureau-Technologie de bureau-1000" title="Electronique Technologie de bureau-Technologie de bureau-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=3">Technologie de bureau</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=4"><img src="images/Tablette-Electronique.jpg" class="img-responsive" alt="Electronique Tablettes-Tablette-1000" title="Electronique Tablettes-Tablette-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=4">Tablette</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=5"><img src="images/Ipad-Electronique.jpg" class="img-responsive" alt="Electronique IPAD-IPAD-1000" title="Electronique IPAD-IPAD-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=5">IPAD</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=6"><img src="images/Laptop-Electronique.jpg" class="img-responsive" alt="Electronique Laptop-Laptop-1000" title="Electronique Laptop-Laptop-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=6">Laptop</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=7"><img src="images/PC-Gamer-Electronique.png" class="img-responsive" alt="Electronique PC Gameur-PC Gamer-1000" title="Electronique PC Gameur-PC Gamer-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=7">PC Gamer</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=8"><img src="images/Monitor-Electronique.jpg" class="img-responsive" alt="Electronique Monitor-Monitor-1000" title="Electronique Monitor-Monitor-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=8">Monitor</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=9"><img src="images/Phone-Androide.png" class="img-responsive" alt="Electronique Android-Android-1000" title="Electronique Android-Android-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=9">Android</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=10"><img src="images/Theme-Windows-Electronique.png" class="img-responsive" alt="Electronique Windows-Windows-1000" title="Electronique Windows-Windows-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=10">Windows</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=11"><img src="images/Phone-BlackBerry-Derniere-Version.png" class="img-responsive" alt="Electronique BlackBerry-BlackBerry-1000" title="Electronique BlackBerry-BlackBerry-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=11">BlackBerry</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=12"><img src="images/Digital-Camera-Appareil-Photo.png" class="img-responsive" alt="Electronique Digital Camera-Digital Camera-1000" title="Electronique Digital Camera-Digital Camera-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=12">Digital Camera</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+					
+			

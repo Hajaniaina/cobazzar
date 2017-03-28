@@ -1,0 +1,218 @@
+   									<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=25"><img src="images/La-Mode-Chaussure.jpg" class="img-responsive" alt="Mode enfant & Jouets Chaussure-Chaussure-1000" title="Mode enfant & Jouets Chaussure-Chaussure-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=25">Chaussure</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=26"><img src="images/Jouet-Ballon-Pour-Enfant.png" class="img-responsive" alt="Mode enfant & Jouets Divers Jouet-Jouet-1000" title="Mode enfant & Jouets Divers Jouet-Jouet-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=26">Jouet</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=27"><img src="images/Jouet-Bijoux-Enfant.jpg" class="img-responsive" alt="Mode enfant & Jouets Bijoux-Bijoux-1000" title="Mode enfant & Jouets Bijoux-Bijoux-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=27">Bijoux</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=28"><img src="images/Instrument-De-Music-Jouet.jpg" class="img-responsive" alt="Mode enfant & Jouets Instrument de music-Instrument de Music-1000" title="Mode enfant & Jouets Instrument de music-Instrument de Music-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=28">Instrument de Music</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=29"><img src="images/Alimentation-ENfant.png" class="img-responsive" alt="Mode enfant & Jouets alimentation-Alimentation-1000" title="Mode enfant & Jouets alimentation-Alimentation-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=29">Alimentation</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=30"><img src="images/Couche-Bebe-Util.jpg" class="img-responsive" alt="Mode enfant & Jouets Couche-Couche De Bebe-1000" title="Mode enfant & Jouets Couche-Couche De Bebe-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=30">Couche De Bebe</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=31"><img src="images/Lutte-de-soleil-bebe.jpg" class="img-responsive" alt="Mode enfant & Jouets Lunette de soleil-Lunette de soleil-1000" title="Mode enfant & Jouets Lunette de soleil-Lunette de soleil-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=31">Lunette de soleil</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=32"><img src="images/PC-Gamer-Electronique.png" class="img-responsive" alt="Mode enfant & Jouets PC & Digital Gaming-PC & Digital gaming-1000" title="Mode enfant & Jouets PC & Digital Gaming-PC & Digital gaming-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=32">PC & Digital gaming</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=33"><img src="images/Jouet-Ballon-Pour-Enfant.png" class="img-responsive" alt="Mode enfant & Jouets Jouet prescolaire-Jouet Prescolaire-1000" title="Mode enfant & Jouets Jouet prescolaire-Jouet Prescolaire-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=33">Jouet Prescolaire</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=34"><img src="images/Petite-bicyclette-pour-enfant.jpg" class="img-responsive" alt="Mode enfant & Jouets Bicyclettes-Bicyclette-1000" title="Mode enfant & Jouets Bicyclettes-Bicyclette-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=34">Bicyclette</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=35"><img src="images/Vetement-Du-jour-la-mode.png" class="img-responsive" alt="Mode enfant & Jouets Vetements de nuit-Vetement nuit-1000" title="Mode enfant & Jouets Vetements de nuit-Vetement nuit-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=35">Vetement nuit</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+								<div class="col-md-3 product-grids"> 
+						<div class="agile-products" style="height: 300px; width: 200px">
+							<div class="new-tag"><h6><br></h6></div>
+							<a href="Redirection/RedirectionSingle.php?idproduit=36"><img src="images/nourse-pour-bebe.png" class="img-responsive" alt="Mode enfant & Jouets Art et artisanat-Nourse-1000" title="Mode enfant & Jouets Art et artisanat-Nourse-1000"></a>
+							<div class="agile-product-text">              
+								<h5><a href="Redirection/RedirectionSingle.php?idproduit=36">Nourse</a></h5> 
+								
+								<h6><del>1500</del> 1000</h6> 
+								<form action="#" method="post">
+									<input type="hidden" name="cmd" value="_cart" />
+									<input type="hidden" name="add" value="1" /> 
+									<input type="hidden" name="w3ls_item" value="Audio speaker" /> 
+									<input type="hidden" name="amount" value="100.00" /> 
+									<button type="submit" class="w3ls-cart pw3ls-cart"><i class="fa fa-cart-plus" aria-hidden="true"></i>Ajouter au panier</button>
+								</form> 
+							</div>
+						</div> 
+					</div>
+					
+			
